@@ -270,8 +270,8 @@ int main() {
 			cout << green << "\n\nYou now have " << tokens << " tokens.\n";
 		}
 
-		//Main body of randomization data. (For clarity, if-statements you are currently not working with.)
-		//Depending on randomizer settings, some options will not be viewable if they have not been changed from the base game
+		//Main body of randomization data. (For clarity, minimize if-statements you are currently not working with. Code can be kind of bulky.)
+		//Depending on randomizer settings, some options will not be viewable if they have not been changed from the base game.
 		else {
 			
 			//Zero tokens, dumps text data.
