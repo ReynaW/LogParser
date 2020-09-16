@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "logparser", "logparser.vcxproj", "{3F6B549D-0DC0-4CB3-8018-E66D94E188F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F6B549D-0DC0-4CB3-8018-E66D94E188F5}.Debug|x64.ActiveCfg = Debug|x64
+		{3F6B549D-0DC0-4CB3-8018-E66D94E188F5}.Debug|x64.Build.0 = Debug|x64
+		{3F6B549D-0DC0-4CB3-8018-E66D94E188F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F6B549D-0DC0-4CB3-8018-E66D94E188F5}.Debug|x86.Build.0 = Debug|Win32
+		{3F6B549D-0DC0-4CB3-8018-E66D94E188F5}.Release|x64.ActiveCfg = Release|x64
+		{3F6B549D-0DC0-4CB3-8018-E66D94E188F5}.Release|x64.Build.0 = Release|x64
+		{3F6B549D-0DC0-4CB3-8018-E66D94E188F5}.Release|x86.ActiveCfg = Release|Win32
+		{3F6B549D-0DC0-4CB3-8018-E66D94E188F5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABBF7D66-94A3-4866-B7F6-C918B4C78FDD}
+	EndGlobalSection
+EndGlobal
